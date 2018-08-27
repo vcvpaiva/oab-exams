@@ -1,5 +1,26 @@
-Art. 3º O exercício da atividade de advocacia no território brasileiro e a denominação de advogado são privativos dos inscritos na Ordem dos Advogados do Brasil (OAB),
+Art. 3º O exercício da atividade de advocacia no território brasileiro e a denominação de advogado são 
+privativos dos inscritos na Ordem dos Advogados do Brasil (OAB),
 
-§ 1º Exercem atividade de advocacia, sujeitando-se ao regime [$desta lei$], além do regime próprio a que se subordinem, os integrantes da Advocacia-Geral da União, da Procuradoria da Fazenda Nacional, da Defensoria Pública e das Procuradorias e Consultorias Jurídicas dos Estados, do Distrito Federal, dos Municípios e das respectivas entidades de administração indireta e fundacional.
-§ 2º O estagiário de advocacia, regularmente inscrito, pode praticar os atos previstos no [$art. 1º$], na forma do [#regimento geral#], em conjunto com advogado e sob responsabilidade deste.
+§ 1º Exercem atividade de advocacia, sujeitando-se ao regime [$desta lei$], 
+além do regime próprio a que se subordinem, os integrantes da Advocacia-Geral da União, 
+da Procuradoria da Fazenda Nacional, da Defensoria Pública e das Procuradorias e 
+Consultorias Jurídicas dos Estados, do Distrito Federal, dos Municípios e 
+das respectivas entidades de administração indireta e fundacional.
+
+§ 2º O estagiário de advocacia, regularmente inscrito, pode praticar os atos previstos 
+no [$art. 1º$], na forma do [#regimento geral#], em conjunto com advogado 
+e sob responsabilidade deste.
+
+=================
+missing: 
+1. privativo again
+2. Ordem dos Advogados do Brasil (OAB)=> synset already created by Rademaker
+3. Advocacia-Geral da União: ??
+4. Procuradoria
+5. Fazenda Nacional
+6. Defensoria Pública
+7. Consultorias Jurídicas dos Estados ??
+8. Distrito Federal
+9. fundacional
+10. regimento geral
 
