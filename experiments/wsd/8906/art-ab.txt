@@ -6,3 +6,23 @@ II - as atividades de consultoria, assessoria e direção jurídicas.
 § 2º Os atos e contratos constitutivos de pessoas jurídicas, sob pena de nulidade, só podem ser admitidos a registro, nos órgãos competentes, quando visados por advogados.
 § 3º É vedada a divulgação de advocacia em conjunto com outra atividade.
 
+=====================
+missing from OWN-PT:
+
+1. privativo: where?
+postulação: added to 06513366-n
+juizado: added to 08166187-n
+
+2. nulidade: only adjective, missing noun
+3. constitutivo: missing adjective, added in 00901345-a
+4. impetração: missing noun, verb is 00746718-v
+
+vedar: added to 00795863-v
+vedado: ok em 01761375-a 
+missing: 5. instância 
+         6. corte in the legal sense
+
+mwe: Poder Judiciário 08166318-n
+     habeas corpus: 05183453-n
+    7. pessoa jurídica: missing
+    8. órgãos competentes: missing
