@@ -3,8 +3,16 @@ Art. 87. Revogam-se as disposições em contrário, especialmente a [#Lei nº 4.
 =========
 missing from OWN-PT:
 
-revogar: added to http://wnpt.brlcloud.com/wn/synset?id=00231887-n
+revogar: added to http://wnpt.brlcloud.com/wn/synset?id=00231887-n (No! this is a noun synset!)
 
 disposição maybe: http://wnpt.brlcloud.com/wn/synset?id=06652242-n (problema: com esse artigo ele está dizendo que estão revogadas quaisquer normas que forem contrárias à lei 8906 - isso pode ser um trecho de um artigo, um artigo inteiro ou uma lei inteira. Poderíamos chamar, então de "normas" como uma palavra geral, contudo não temos um sentido para norma que seja do contexto jurídico na OWN)
 
 contrário: ok em http://wnpt.brlcloud.com/wn/synset?id=13858604-n
+
+VCVP: olha a expressao completa  "Revogam-se as disposições em contrário" e' traduzida como 
+https://www.linguee.com.br/portugues-ingles/traducao/revogam-se+as+disposi%C3%A7%C3%B5es+em+contr%C3%A1rio.html
+"Dispensations to the contrary are herewith revoked"
+"All opposing dispositions shall be revoked."
+"repeal the provisions to the contrary"
+"revoking the contrary dispositions"
+eu acho que essa 'e definitivamente MWE e precisamos escolhar uma formula fechada, que deve ja' estar nos dicionarios!
